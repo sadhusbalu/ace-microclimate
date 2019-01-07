@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><tns0:Envelope xmlns:tns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tns1="http://TemperatureConverter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tns0:Header/>
+  <tns0:Body>
+    <tns1:CtoF>
+      <TemperatureInC>0</TemperatureInC>
+    </tns1:CtoF>
+  </tns0:Body>
+</tns0:Envelope>
