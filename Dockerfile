@@ -1,4 +1,4 @@
-FROM ibmcom/ace:11.0.0.0
+FROM ibmcom/ace:latest
 
 # Set ACE environment variables
 ENV LICENSE=accept \
